@@ -1,0 +1,118 @@
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.dll.config
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.pdb
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\csc.exe
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\csc.exe.config
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\csc.rsp
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\csi.exe
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\csi.exe.config
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\csi.rsp
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.AppContext.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Console.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\vbc.exe
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\vbc.exe.config
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\vbc.rsp
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CopyComplete
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.dll
+C:\Users\NEEL MAKVANA\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.dll.config
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.pdb
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\csc.exe
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\csc.exe.config
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\csc.rsp
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\csi.exe
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\csi.exe.config
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\csi.rsp
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.AppContext.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Console.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.IO.Compression.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Net.Http.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Net.Sockets.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.ValueTuple.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Xml.XPath.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\vbc.exe
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\vbc.exe.config
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\vbc.rsp
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\VBCSCompiler.exe
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+E:\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+E:\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CopyComplete
+E:\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.dll
+E:\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
